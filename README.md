@@ -1,4 +1,4 @@
-# This is my Blog
+# This is my Blog App
 
 You can use this app in creating your article
 
