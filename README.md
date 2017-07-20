@@ -5,7 +5,7 @@ You can use this app in creating your article
 
 # How to use:
 
-* first go to localhost:3000/articles
+* first go to localhost:3000/articles and enter dhh as name and secret as password
 
 * you can create article by clicking article
 
