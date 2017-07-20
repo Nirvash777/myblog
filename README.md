@@ -1,24 +1,28 @@
-# README
+# This is my Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can use this app in creating your article
 
-Things you may want to cover:
 
-* Ruby version
+# How to use:
 
-* System dependencies
+* first go to localhost:3000/articles
 
-* Configuration
+* you can create article by clicking article
 
-* Database creation
+* you can show article by clicking show same goes to edit just look for edit and click
 
-* Database initialization
+* you can delete article by clicking delete
 
-* How to run the test suite
+* you can also add a comment and delete it
 
-* Services (job queues, cache servers, search engines, etc.)
+Its very simple
 
-* Deployment instructions
+# this app is built with
 
-* ...
+* ruby on Rails
+
+#  Authors
+
+* Michelangelo D Mayona
+
+#
